@@ -1,21 +1,8 @@
 # 3D+*t* Human Sperm Flagellum Tracing 
+![img_stack_volume_rendering_and_trace](https://user-images.githubusercontent.com/84725695/178838384-f3427390-9d45-4fbb-bf74-ece2bfd10490.gif)
+
+
 # Iterative algorithm for tracing one-branch tubular structures
-
-### 3D+t image stack
-<video width="320" height="240" autoplay loop>
-<source src="https://user-images.githubusercontent.com/84725695/178831669-d177259f-e462-4571-b95e-ca5eabd0f9e0.mp4" type="video/mp4" />
-</video>
-https://user-images.githubusercontent.com/84725695/178831669-d177259f-e462-4571-b95e-ca5eabd0f9e0.mp4
-
-### Image stack overlay with center-line tracing
-https://user-images.githubusercontent.com/84725695/178831689-b9e144d2-a643-4069-89a3-a656ded3c24c.mp4
-
-### MESON prediction/probability output
-https://user-images.githubusercontent.com/84725695/178831700-e53cf67b-ef36-4e91-bce0-f35c31e52d9e.mp4
-
-### Center-line tracing
-https://user-images.githubusercontent.com/84725695/178831726-28e54a80-bb99-443a-9a83-df16eba95de2.mp4
-
 
 ![Sperm's flagellum tracing overview](/figures/iterative_centerline_tracing_Overview.png)
 
