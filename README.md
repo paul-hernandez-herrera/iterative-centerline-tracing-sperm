@@ -1,6 +1,19 @@
 # 3D+*t* Human Sperm Flagellum Tracing 
 # Iterative algorithm for tracing one-branch tubular structures
 
+### 3D+t image stack
+https://user-images.githubusercontent.com/84725695/178831669-d177259f-e462-4571-b95e-ca5eabd0f9e0.mp4
+
+### Image stack overlay with center-line tracing
+https://user-images.githubusercontent.com/84725695/178831689-b9e144d2-a643-4069-89a3-a656ded3c24c.mp4
+
+### MESON prediction/probability output
+https://user-images.githubusercontent.com/84725695/178831700-e53cf67b-ef36-4e91-bce0-f35c31e52d9e.mp4
+
+### Center-line tracing
+https://user-images.githubusercontent.com/84725695/178831726-28e54a80-bb99-443a-9a83-df16eba95de2.mp4
+
+
 ![Sperm's flagellum tracing overview](/figures/iterative_centerline_tracing_Overview.png)
 
 An iterative tracing algorithm designed to extract the center-line of single tubular structures from a 3D+*t* low contrast and noisy image stack. The center-line is obtained using a machine learning approach and a minimal path algorithm. The algorithm allows to extract several single tubular structures from a 3d image stack.
