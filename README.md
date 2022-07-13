@@ -2,6 +2,9 @@
 # Iterative algorithm for tracing one-branch tubular structures
 
 ### 3D+t image stack
+<video width="320" height="240" autoplay loop>
+<source src="https://user-images.githubusercontent.com/84725695/178831669-d177259f-e462-4571-b95e-ca5eabd0f9e0.mp4" type="video/mp4" />
+</video>
 https://user-images.githubusercontent.com/84725695/178831669-d177259f-e462-4571-b95e-ca5eabd0f9e0.mp4
 
 ### Image stack overlay with center-line tracing
