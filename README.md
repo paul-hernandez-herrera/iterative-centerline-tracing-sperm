@@ -37,7 +37,7 @@ The current approach is designed to extract the sperm flagellum's center-line. h
 
 ## Instalation
 
-1. Download the lastest release of the code [here]()
+1. Download the lastest release of the code [here](https://github.com/paul-hernandez-herrera/iterative-centerline-tracing-sperm/releases)
 2. Make sure to add the downloaded codes to the Matlab Path.
 3. Compile the MEX files using the function compile_mex.m 
 
