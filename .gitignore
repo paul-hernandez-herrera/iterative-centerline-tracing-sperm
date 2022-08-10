@@ -1,0 +1,2 @@
+#ignoring the generated mex file in ubuntu
+/mex/fast_marching_stop_length.mexa64
